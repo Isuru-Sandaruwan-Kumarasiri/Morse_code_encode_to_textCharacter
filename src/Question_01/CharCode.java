@@ -1,3 +1,5 @@
+package Question_01;
+
 public class CharCode {
     private char letter;
     private String code;
